@@ -8,9 +8,10 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	line-height: 20px;
-	color: #999999;
+	color: #303030;
 	font-size: 300;
 	font-size: 16px;
+    /* color: #999999; */
 }
 ol, ul {
 	list-style: none;
@@ -30,7 +31,7 @@ table {
 h1, h2, h3, h4, h5, h6
 {
 	font-family: 'Raleway', sans-serif;
-	font-weight: 600;
+    font-weight: 800; 
 	color: #222222;
 }
 a, a:hover, a:focus, a:active{
@@ -141,7 +142,7 @@ banner
     background-color: rgba(12, 184, 182) !important;
 }
 #banner{
-	background: url('../img/bg-banner.jpg') no-repeat fixed;
+	background: url('../img/banner.jpeg') no-repeat fixed;
 	background-size: cover;
 	min-height: 650px;
 	position: relative;
